@@ -1,4 +1,4 @@
-Indian City Population Analysis
+# Indian City Population Analysis
 This project is an end-to-end data analysis workflow that focuses on the population of Indian cities. The process includes web scraping, data preprocessing, and data visualization.
 
 Project Steps
