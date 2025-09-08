@@ -1,0 +1,293 @@
+City,Population (2011),Population (2001),State or union territory,Population Change,Growth Rate (%)
+Mumbai,12442373,11978450.0,Maharashtra,463923.0,3.87
+Delhi,11034555,9879172.0,Delhi,1155383.0,11.7
+Bengaluru,8443675,5682293.0,Karnataka,2761382.0,48.6
+Hyderabad,6993262,5496960.0,Telangana,1496302.0,27.22
+Ahmedabad,5577940,4470006.0,Gujarat,1107934.0,24.79
+Chennai,4646732,4343645.0,Tamil Nadu,303087.0,6.98
+Kolkata,4496694,4580546.0,West Bengal,-83852.0,-1.83
+Surat,4467797,2788126.0,Gujarat,1679671.0,60.24
+Pune,3124458,2538473.0,Maharashtra,585985.0,23.08
+Jaipur,3046163,2322575.0,Rajasthan,723588.0,31.15
+Lucknow,2817105,2185927.0,Uttar Pradesh,631178.0,28.87
+Kanpur,2765348,2551337.0,Uttar Pradesh,214011.0,8.39
+Nagpur,2405665,2052066.0,Maharashtra,353599.0,17.23
+Indore,1964086,1503237.0,Madhya Pradesh,460849.0,30.66
+Thane,1841488,1262551.0,Maharashtra,578937.0,45.85
+Bhopal,1798218,1458416.0,Madhya Pradesh,339802.0,23.3
+Visakhapatnam,1728128,1345938.0,Andhra Pradesh,382190.0,28.4
+Pimpri-Chinchwad,1727692,1020448.0,Maharashtra,707244.0,69.31
+Patna,1684222,1431477.0,Bihar,252745.0,17.66
+Vadodara,1670806,1338244.0,Gujarat,332562.0,24.85
+Ghaziabad,1648643,968256.0,Uttar Pradesh,680387.0,70.27
+Ludhiana,1618879,1398467.0,Punjab,220412.0,15.76
+Agra,1585704,1275134.0,Uttar Pradesh,310570.0,24.36
+Nashik,1486053,1077236.0,Maharashtra,408817.0,37.95
+Faridabad,1414050,1055938.0,Haryana,358112.0,33.91
+Meerut,1305429,1068772.0,Uttar Pradesh,236657.0,22.14
+Rajkot,1286678,967476.0,Gujarat,319202.0,32.99
+Kalyan-Dombivli,1247327,1193512.0,Maharashtra,53815.0,4.51
+Vasai-Virar,1222390,518601.0,Maharashtra,703789.0,135.71
+Varanasi,1198491,1103952.0,Uttar Pradesh,94539.0,8.56
+Srinagar,1180570,935764.0,Jammu and Kashmir,244806.0,26.16
+Aurangabad,1175116,873311.0,Maharashtra,301805.0,34.56
+Dhanbad,1162472,1031523.0,Jharkhand,130949.0,12.69
+Amritsar,1132383,979801.0,Punjab,152582.0,15.57
+Navi Mumbai,1120547,704002.0,Maharashtra,416545.0,59.17
+Prayagraj,1112544,975393.0,Uttar Pradesh,137151.0,14.06
+Howrah,1077075,1007532.0,West Bengal,69543.0,6.9
+Ranchi,1073427,847093.0,Jharkhand,226334.0,26.72
+Jabalpur,1055525,951472.0,Madhya Pradesh,104053.0,10.94
+Gwalior,1054420,827026.0,Madhya Pradesh,227394.0,27.5
+Coimbatore,1050721,930882.0,Tamil Nadu,119839.0,12.87
+Vijayawada,1034358,941760.0,Andhra Pradesh,92598.0,9.83
+Jodhpur,1033756,856525.0,Rajasthan,177231.0,20.69
+Madurai,1017865,928869.0,Tamil Nadu,88996.0,9.58
+Raipur,1010433,707469.0,Chhattisgarh,302964.0,42.82
+Kota,1001694,703150.0,Rajasthan,298544.0,42.46
+Guwahati,963429,809895.0,Assam,153534.0,18.96
+Chandigarh,960787,808515.0,Chandigarh,152272.0,18.83
+Solapur,951118,872478.0,Maharashtra,78640.0,9.01
+Hubli–Dharwad,943857,786195.0,Karnataka,157662.0,20.05
+Tiruchirappalli,916674,752066.0,Tamil Nadu,164608.0,21.89
+Tiruppur,898167,718395.0,Tamil Nadu,179772.0,25.02
+Moradabad,889810,641583.0,Uttar Pradesh,248227.0,38.69
+Mysore,887446,755379.0,Karnataka,132067.0,17.48
+Bareilly,877778,344543.0,Uttar Pradesh,533235.0,154.77
+Gurgaon,876824,173542.0,Haryana,703282.0,405.25
+Aligarh,872575,669087.0,Uttar Pradesh,203488.0,30.41
+Jalandhar,862196,706043.0,Punjab,156153.0,22.12
+Bhubaneswar,837737,648032.0,Odisha,189705.0,29.27
+Salem,831038,696760.0,Tamil Nadu,134278.0,19.27
+Mira-Bhayandar,814655,520388.0,Maharashtra,294267.0,56.55
+Warangal,811844,530636.0,Telangana,281208.0,52.99
+Thiruvananthapuram,752490,744983.0,Kerala,7507.0,1.01
+Guntur,743354,514461.0,Andhra Pradesh,228893.0,44.49
+Bhiwandi,711329,598741.0,Maharashtra,112588.0,18.8
+Saharanpur,703345,455754.0,Uttar Pradesh,247591.0,54.33
+Gorakhpur,671048,622701.0,Uttar Pradesh,48347.0,7.76
+Bikaner,647804,529690.0,Rajasthan,118114.0,22.3
+Amravati,646801,549510.0,Maharashtra,97291.0,17.71
+Noida,642381,305058.0,Uttar Pradesh,337323.0,110.58
+Jamshedpur,631364,573096.0,Jharkhand,58268.0,10.17
+Bhilai,625697,556366.0,Chhattisgarh,69331.0,12.46
+Cuttack,606007,534654.0,Odisha,71353.0,13.35
+Firozabad,603797,279102.0,Uttar Pradesh,324695.0,116.34
+Kochi,601574,596473.0,Kerala,5101.0,0.86
+Nellore,600869,378428.0,Andhra Pradesh,222441.0,58.78
+Bhavnagar,593768,511085.0,Gujarat,82683.0,16.18
+Dehradun,578420,426674.0,Uttarakhand,151746.0,35.56
+Durgapur,566937,493405.0,West Bengal,73532.0,14.9
+Asansol,564491,475439.0,West Bengal,89052.0,18.73
+Nanded,550564,430733.0,Maharashtra,119831.0,27.82
+Kolhapur,549283,493167.0,Maharashtra,56116.0,11.38
+Ajmer,542580,485575.0,Rajasthan,57005.0,11.74
+Gulbarga,532031,422569.0,Karnataka,109462.0,25.9
+Jamnagar,529308,443518.0,Gujarat,85790.0,19.34
+Ujjain,515215,430427.0,Madhya Pradesh,84788.0,19.7
+Loni,512296,120945.0,Uttar Pradesh,391351.0,323.58
+Siliguri,509709,472374.0,West Bengal,37335.0,7.9
+Jhansi,507293,383644.0,Uttar Pradesh,123649.0,32.23
+Ulhasnagar,506937,473731.0,Maharashtra,33206.0,7.01
+Jammu,503690,369959.0,Jammu and Kashmir,133731.0,36.15
+Sangli-Miraj & Kupwad,502697,436781.0,Maharashtra,65916.0,15.09
+Mangalore,499486,399565.0,Karnataka,99921.0,25.01
+Erode,498129,173600.0,Tamil Nadu,324529.0,186.94
+Belgaum,488292,399653.0,Karnataka,88639.0,22.18
+Ambattur,478134,310967.0,Tamil Nadu,167167.0,53.76
+Tirunelveli,473637,411831.0,Tamil Nadu,61806.0,15.01
+Malegaon,471006,409403.0,Maharashtra,61603.0,15.05
+Gaya,463454,385432.0,Bihar,78022.0,20.24
+Jalgaon,460468,368618.0,Maharashtra,91850.0,24.92
+Udaipur,451735,389438.0,Rajasthan,62297.0,16.0
+Maheshtala,449423,385266.0,West Bengal,64157.0,16.65
+Davanagere,435128,364523.0,Karnataka,70605.0,19.37
+Kozhikode,432097,436556.0,Kerala,-4459.0,-1.02
+Kurnool,430214,269122.0,Andhra Pradesh,161092.0,59.86
+Akola,425817,400520.0,Maharashtra,25297.0,6.32
+Rajpur Sonarpur,423806,336707.0,West Bengal,87099.0,25.87
+Rajahmundry,419818,315251.0,Andhra Pradesh,104567.0,33.17
+Bokaro,413934,393805.0,Jharkhand,20129.0,5.11
+South Dumdum,410524,392444.0,West Bengal,18080.0,4.61
+Bellary,409644,316766.0,Karnataka,92878.0,29.32
+Patiala,405164,303151.0,Punjab,102013.0,33.65
+Gopalpur,404991,271811.0,West Bengal,133180.0,49.0
+Agartala,399688,271811.0,Tripura,127877.0,47.05
+Bhagalpur,398138,340767.0,Bihar,57371.0,16.84
+Muzaffarnagar,392451,316729.0,Uttar Pradesh,75722.0,23.91
+Bhatpara,390467,442385.0,West Bengal,-51918.0,-11.74
+Panihati,383522,348438.0,West Bengal,35084.0,10.07
+Latur,382754,299985.0,Maharashtra,82769.0,27.59
+Dhule,376093,341755.0,Maharashtra,34338.0,10.05
+Tirupati,374260,228202.0,Andhra Pradesh,146058.0,64.0
+Rohtak,373133,286807.0,Haryana,86326.0,30.1
+Korba,363210,315690.0,Chhattisgarh,47520.0,15.05
+Bhilwara,360009,280128.0,Rajasthan,79881.0,28.52
+Berhampur,355823,307792.0,Odisha,48031.0,15.61
+Muzaffarpur,351838,305525.0,Bihar,46313.0,15.16
+Ahmednagar,350905,307615.0,Maharashtra,43290.0,14.07
+Mathura,349336,302770.0,Uttar Pradesh,46566.0,15.38
+Kollam,349033,361560.0,Kerala,-12527.0,-3.46
+Avadi,344701,229403.0,Tamil Nadu,115298.0,50.26
+Kadapa,343054,125725.0,Andhra Pradesh,217329.0,172.86
+Kamarhati,336579,314507.0,West Bengal,22072.0,7.02
+Bilaspur,330106,274917.0,Chhattisgarh,55189.0,20.07
+Shahjahanpur,327975,296662.0,Uttar Pradesh,31313.0,10.56
+Bijapur,326360,228175.0,Karnataka,98185.0,43.03
+Rampur,325248,281494.0,Uttar Pradesh,43754.0,15.54
+Shivamogga,322428,274352.0,Karnataka,48076.0,17.52
+Chandrapur,321036,289450.0,Maharashtra,31586.0,10.91
+Junagadh,320250,168686.0,Gujarat,151564.0,89.85
+Thrissur,315596,317526.0,Kerala,-1930.0,-0.61
+Alwar,315310,260593.0,Rajasthan,54717.0,21.0
+Bardhaman,314638,285602.0,West Bengal,29036.0,10.17
+Kulti,313977,289903.0,West Bengal,24074.0,8.3
+Kakinada,325985,296329.0,Andhra Pradesh,29656.0,10.01
+Nizamabad,310467,288722.0,Telangana,21745.0,7.53
+Parbhani,307191,259329.0,Maharashtra,47862.0,18.46
+Tumkur,305821,248929.0,Karnataka,56892.0,22.85
+Khammam,305000,218689.0,Telangana,86311.0,39.47
+Ozhukarai,300028,217707.0,Puducherry,82321.0,37.81
+Bihar Sharif,296889,232071.0,Bihar,64818.0,27.93
+Panipat,294150,261740.0,Haryana,32410.0,12.38
+Darbhanga,294116,267348.0,Bihar,26768.0,10.01
+Bally,291972,260906.0,West Bengal,31066.0,11.91
+Aizawl,291822,228280.0,Mizoram,63542.0,27.84
+Dewas,289438,231672.0,Madhya Pradesh,57766.0,24.93
+Ichalkaranji,287570,257610.0,Maharashtra,29960.0,11.63
+Karnal,286974,210476.0,Haryana,76498.0,36.35
+Bathinda,285813,217256.0,Punjab,68557.0,31.56
+Jalna,285349,235795.0,Maharashtra,49554.0,21.02
+Eluru,283648,190347.0,Andhra Pradesh,93301.0,49.02
+Kirari Suleman Nagar,282598,153874.0,Delhi,128724.0,83.66
+Barasat,283443,231515.0,West Bengal,51928.0,22.43
+Purnia,280547,171687.0,Bihar,108860.0,63.41
+Satna,280248,225464.0,Madhya Pradesh,54784.0,24.3
+Mau,279060,212657.0,Uttar Pradesh,66403.0,31.23
+Sonipat,277053,214974.0,Haryana,62079.0,28.88
+Farrukhabad,275750,228333.0,Uttar Pradesh,47417.0,20.77
+Sagar,273357,232133.0,Madhya Pradesh,41224.0,17.76
+Rourkela,273217,224601.0,Odisha,48616.0,21.65
+Durg,268679,232517.0,Chhattisgarh,36162.0,15.55
+Imphal,264986,221492.0,Manipur,43494.0,19.64
+Ratlam,264810,222202.0,Madhya Pradesh,42608.0,19.18
+Hapur,262801,211983.0,Uttar Pradesh,50818.0,23.97
+Arrah,261099,203380.0,Bihar,57719.0,28.38
+Karimnagar,260899,205653.0,Telangana,55246.0,26.86
+Anantapur,261004,218808.0,Andhra Pradesh,42196.0,19.28
+Etawah,256838,210453.0,Uttar Pradesh,46385.0,22.04
+Ambarnath,254003,203795.0,Maharashtra,50208.0,24.64
+North Dumdum,253625,220042.0,West Bengal,33583.0,15.26
+Bharatpur,252109,204587.0,Rajasthan,47522.0,23.23
+Begusarai,251136,93378.0,Bihar,157758.0,168.95
+New Delhi,249998,302147.0,Delhi,-52149.0,-17.26
+Gandhidham,248705,166388.0,Gujarat,82317.0,49.47
+Baranagar,248466,250768.0,West Bengal,-2302.0,-0.92
+Tiruvottiyur,248059,212281.0,Tamil Nadu,35778.0,16.85
+Puducherry,241773,220749.0,Puducherry,21024.0,9.52
+Sikar,237579,184904.0,Rajasthan,52675.0,28.49
+Thoothukudi,237374,216058.0,Tamil Nadu,21316.0,9.87
+Rewa,235422,183274.0,Madhya Pradesh,52148.0,28.45
+Mirzapur,233691,205053.0,Uttar Pradesh,28638.0,13.97
+Raichur,232456,207421.0,Karnataka,25035.0,12.07
+Pali,229956,187641.0,Rajasthan,42315.0,22.55
+Ramagundam,229644,236600.0,Telangana,-6956.0,-2.94
+Haridwar,228832,175010.0,Uttarakhand,53822.0,30.75
+Vijayanagaram,228025,174324.0,Andhra Pradesh,53701.0,30.81
+Katihar,225982,175169.0,Bihar,50813.0,29.01
+Nagarcoil,224849,208179.0,Tamil Nadu,16670.0,8.01
+Sri Ganganagar,224773,210713.0,Rajasthan,14060.0,6.67
+Karawal Nagar,224666,148549.0,Delhi,76117.0,51.24
+Mango,223805,166125.0,Jharkhand,57680.0,34.72
+Thanjavur,222943,215314.0,Tamil Nadu,7629.0,3.54
+Bulandshahr,222519,176425.0,Uttar Pradesh,46094.0,26.13
+Uluberia,222240,202135.0,West Bengal,20105.0,9.95
+Murwara,221883,187029.0,Uttar Pradesh,34854.0,18.64
+Sambhal,220813,182478.0,Uttar Pradesh,38335.0,21.01
+Singrauli,220257,185190.0,Madhya Pradesh,35067.0,18.94
+Nadiad,218095,192913.0,Gujarat,25182.0,13.05
+Secunderabad,217910,206102.0,Telangana,11808.0,5.73
+Naihati,217900,215303.0,West Bengal,2597.0,1.21
+Yamunanagar,216677,189696.0,Haryana,26981.0,14.22
+Bidhan Nagar,215514,164221.0,West Bengal,51293.0,31.23
+Pallavaram,215417,144623.0,Tamil Nadu,70794.0,48.95
+Bidar,214373,172877.0,Karnataka,41496.0,24.0
+Munger,213303,188050.0,Bihar,25253.0,13.43
+Panchkula,211355,140925.0,Haryana,70430.0,49.98
+Burhanpur,210886,193725.0,Madhya Pradesh,17161.0,8.86
+Raurkela Industrial Township,210317,206693.0,Odisha,3624.0,1.75
+Kharagpur,207604,188761.0,West Bengal,18843.0,9.98
+Dindigul,207327,196955.0,Tamil Nadu,10372.0,5.27
+Gandhinagar,206167,195985.0,Gujarat,10182.0,5.2
+Hospet,206167,164240.0,Karnataka,41927.0,25.53
+Nangloi Jat,205596,150948.0,Delhi,54648.0,36.2
+Malda,205521,161456.0,West Bengal,44065.0,27.29
+Ongole,204746,150471.0,Andhra Pradesh,54275.0,36.07
+Deoghar,203123,112525.0,Jharkhand,90598.0,80.51
+Chapra,202352,79190.0,Bihar,123162.0,155.53
+Haldia,200827,170673.0,West Bengal,30154.0,17.67
+Khandwa,200738,172242.0,Madhya Pradesh,28496.0,16.54
+Nandyal,200516,152676.0,Andhra Pradesh,47840.0,31.33
+Chittoor,189332,152654.0,Andhra Pradesh,36678.0,24.03
+Morena,200482,150959.0,Madhya Pradesh,49523.0,32.81
+Amroha,198471,165129.0,Uttar Pradesh,33342.0,20.19
+Anand,198282,130685.0,Gujarat,67597.0,51.73
+Bhind,197585,153752.0,Madhya Pradesh,43833.0,28.51
+Bhalswa Jahangir Pur,197148,152339.0,Delhi,44809.0,29.41
+Madhyamgram,196127,155451.0,West Bengal,40676.0,26.17
+Bhiwani,196057,169531.0,Haryana,26526.0,15.65
+Baharampur,195223,160143.0,West Bengal,35080.0,21.91
+Ambala,195153,139279.0,Haryana,55874.0,40.12
+Morvi,194947,145719.0,Gujarat,49228.0,33.78
+Fatehpur,193193,151757.0,Uttar Pradesh,41436.0,27.3
+Rae Bareli,191316,169333.0,Uttar Pradesh,21983.0,12.98
+Bhusawal,187421,172372.0,Maharashtra,15049.0,8.73
+Orai,187137,139318.0,Uttar Pradesh,47819.0,34.32
+Bahraich,186223,168323.0,Uttar Pradesh,17900.0,10.63
+Vellore,185803,177230.0,Tamil Nadu,8573.0,4.84
+Mahesana,184991,141453.0,Gujarat,43538.0,30.78
+Sambalpur,184000,153643.0,Odisha,30357.0,19.76
+Raiganj,183612,165212.0,West Bengal,18400.0,11.14
+Sirsa,182534,160735.0,Haryana,21799.0,13.56
+Danapur,182429,131176.0,Bihar,51253.0,39.07
+Serampore,181842,197857.0,West Bengal,-16015.0,-8.09
+Sultan Pur Majra,181554,164426.0,Delhi,17128.0,10.42
+Guna,180935,137175.0,Madhya Pradesh,43760.0,31.9
+Jaunpur,180362,160055.0,Uttar Pradesh,20307.0,12.69
+Panvel,180020,104058.0,Maharashtra,75962.0,73.0
+Shivpuri,179977,146892.0,Madhya Pradesh,33085.0,22.52
+Surendranagar Dudhrej,177851,156161.0,Gujarat,21690.0,13.89
+Unnao,177658,144662.0,Uttar Pradesh,32996.0,22.81
+Hugli-Chuchura,177259,170201.0,West Bengal,7058.0,4.15
+Badlapur,174226,97948.0,Maharashtra,76278.0,77.88
+Alappuzha,174164,177029.0,Kerala,-2865.0,-1.62
+Kottayam,172878,129894.0,Kerala,42984.0,33.09
+Machilipatnam,169892,179353.0,Andhra Pradesh,-9461.0,-5.28
+Shimla,169578,142555.0,Himachal Pradesh,27023.0,18.96
+Saharsa,155175,125167.0,Bihar,30008.0,23.97
+Sasaram,147396,131172.0,Bihar,16224.0,12.37
+Hajipur,147126,119412.0,Bihar,27714.0,23.21
+Beed,146709,138196.0,Maharashtra,8513.0,6.16
+Dehri,137068,119057.0,Bihar,18011.0,15.13
+Siwan,134458,109919.0,Bihar,24539.0,22.32
+Bettiah,132896,116670.0,Bihar,16226.0,13.91
+Gondia,132813,120902.0,Maharashtra,11911.0,9.85
+Motihari,125183,100683.0,Bihar,24500.0,24.33
+Satara,120195,108048.0,Maharashtra,12147.0,11.24
+Barshi,118722,104785.0,Maharashtra,13937.0,13.3
+Yavatmal,116551,120676.0,Maharashtra,-4125.0,-3.42
+Bagaha,113012,91467.0,Bihar,21545.0,23.55
+Achalpur,112311,107316.0,Maharashtra,4995.0,4.65
+Osmanabad,111825,80625.0,Maharashtra,31200.0,38.7
+Nandurbar,111037,94368.0,Maharashtra,16669.0,17.66
+Miryalaguda,109891,91395.0,Telangana,18496.0,20.24
+Kishanganj,107076,85590.0,Bihar,21486.0,25.1
+Wardha,106444,111118.0,Maharashtra,-4674.0,-4.21
+Karaikudi,106714,86596.0,Tamil Nadu,20118.0,23.23
+Suryapet,105250,94585.0,Telangana,10665.0,11.28
+Jamalpur,105221,96983.0,Bihar,8238.0,8.49
+Udgir,103550,91933.0,Maharashtra,11617.0,12.64
+Buxar,102591,83168.0,Bihar,19423.0,23.35
+Jehanabad,102456,81503.0,Bihar,20953.0,25.71
+Hinganghat,101805,92342.0,Maharashtra,9463.0,10.25
+Aurangabad,101520,79393.0,Bihar,22127.0,27.87
